@@ -1,24 +1,23 @@
 package com.seeburger.bicng.gittests;
 
 /**
- * Git tests
+ * Git tests.
  *
- * @author Martin Hristov
+ * @author Martin Hristov &lt;m.hristov@seeburger.com&gt;
  *
  */
 public class HelloGitWorld
 {
 
 	/**
-	 * Hello world main method.
-	 * Another.
+	 * Hello Git world main method.
 	 *
-	 * @param args
+	 * @param args Command line args.
 	 */
 	public static void main(String[] args)
 	{
-		System.out.println("Hello Git world!");
-		System.out.println("klat klat");
+		GitGreeter gitGreeter = new GitGreeter();
+		gitGreeter.greet();
 	}
 
 }
