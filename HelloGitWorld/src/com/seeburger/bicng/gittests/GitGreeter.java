@@ -5,8 +5,13 @@ package com.seeburger.bicng.gittests;
  *
  * @author Martin Hristov &gt;m.hristov@seeburger.com&lt;
  */
-public class GitGreeter implements Greeter
+public class GitGreeter extends AbstractGreeter
 {
+	public GitGreeter()
+	{
+		super("");
+	}
+
 	private String helloWorldMsg = "Hello Git World! (Updated)";
 
 	@Override
