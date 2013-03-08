@@ -7,7 +7,7 @@ package com.seeburger.bicng.gittests;
  */
 public class GitGreeter
 {
-	private String helloWorldMsg = "Hello Git World!";
+	private String helloWorldMsg = "Hello Git World! (Updated)";
 
 	public void greet()
 	{
