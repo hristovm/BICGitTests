@@ -5,6 +5,7 @@ public class HelloGitWorld
 
 	/**
 	 * Hello world main method.
+	 * Another.
 	 *
 	 * @param args
 	 */
