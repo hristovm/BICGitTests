@@ -1,5 +1,11 @@
 package com.seeburger.bicng.gittests;
 
+/**
+ * Git tests
+ *
+ * @author Martin Hristov
+ *
+ */
 public class HelloGitWorld
 {
 
