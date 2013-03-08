@@ -2,6 +2,8 @@ package com.seeburger.bicng.gittests;
 
 /**
  * Git greeter class
+ *
+ * @author Martin Hristov &gt;m.hristov@seeburger.com&lt;
  */
 public class GitGreeter
 {
