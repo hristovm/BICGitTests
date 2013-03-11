@@ -11,4 +11,10 @@ public class Snowboarding implements Sport
 		System.out.println("Snowboarding");
 	}
 
+	@Override
+	public void playWithSomebody(String somebodysName) {
+		// TODO Auto-generated method stub
+
+	}
+
 }
