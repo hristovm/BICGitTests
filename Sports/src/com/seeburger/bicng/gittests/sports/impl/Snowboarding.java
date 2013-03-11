@@ -1,14 +1,21 @@
 package com.seeburger.bicng.gittests.sports.impl;
 
-import com.seeburger.bicng.gittests.sports.Sport;
+import com.seeburger.bicng.gittests.sports.SnowSport;
 
-public class Snowboarding implements Sport
+public class Snowboarding implements SnowSport
 {
 
 	@Override
 	public void play()
 	{
 		System.out.println("Snowboarding");
+	}
+
+
+	@Override
+	public void slideOnTheSnow()
+	{
+		System.out.println("I'm sliding over/onToThe snow...");
 	}
 
 }
