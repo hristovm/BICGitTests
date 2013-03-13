@@ -16,13 +16,13 @@ public class Snowboarding implements SnowSport
 		// TODO Auto-generated method stub
 
 	}
-	
-	
+
+
 	@Override
 	public void slideOnTheSnow()
 	{
 		System.out.println("I'm sliding over/onToThe snow...");
-		System.out.println("I'm sliding over/onToThe snow...");
+		System.out.println("making some chane in snowowbarding impl.");
 	}
 
 }
