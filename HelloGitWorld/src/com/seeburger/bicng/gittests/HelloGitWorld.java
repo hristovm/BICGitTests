@@ -3,6 +3,10 @@ package com.seeburger.bicng.gittests;
 /**
  * Git tests. :)) WOOOHOOOO
  *
+ * These are my changes!
+ *
+ * Let's see
+ *
  * @author Martin Hristov &lt;m.hristov@seeburger.com&gt;
  *
  */
