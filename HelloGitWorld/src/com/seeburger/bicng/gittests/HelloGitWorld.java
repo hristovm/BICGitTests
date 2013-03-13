@@ -1,7 +1,7 @@
 package com.seeburger.bicng.gittests;
 
 /**
- * Git tests.
+ * Git tests. :)) WOOOHOOOO
  *
  * @author Martin Hristov &lt;m.hristov@seeburger.com&gt;
  *
