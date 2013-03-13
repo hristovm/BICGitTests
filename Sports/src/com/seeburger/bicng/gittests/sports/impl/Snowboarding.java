@@ -2,6 +2,14 @@ package com.seeburger.bicng.gittests.sports.impl;
 
 import com.seeburger.bicng.gittests.sports.SnowSport;
 
+/**
+ *
+ * TODO short description for Snowboarding.
+ * <p>
+ * Long description for Snowboarding.
+ *
+ * @author Martin Marchev
+ */
 public class Snowboarding implements SnowSport
 {
 

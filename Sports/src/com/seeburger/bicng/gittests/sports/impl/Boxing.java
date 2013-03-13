@@ -3,7 +3,7 @@ package com.seeburger.bicng.gittests.sports.impl;
 import com.seeburger.bicng.gittests.sports.Sport;
 
 /**
- * asdasdas
+ * asdasdas!!!
  *
  * @author Martin Hristov
  *

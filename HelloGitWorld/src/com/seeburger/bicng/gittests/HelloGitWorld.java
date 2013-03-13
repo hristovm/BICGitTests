@@ -3,7 +3,7 @@ package com.seeburger.bicng.gittests;
 /**
  * Git tests. :)) WOOOHOOOO
  *
- * These are my changes!
+ * These are my changes!!!
  *
  * Let's see
  *
