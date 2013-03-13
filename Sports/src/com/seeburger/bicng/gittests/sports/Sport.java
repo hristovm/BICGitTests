@@ -2,6 +2,9 @@ package com.seeburger.bicng.gittests.sports;
 
 public interface Sport
 {
+	/**
+	 * playing some crap
+	 */
 	void play();
 
 	/**
