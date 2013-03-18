@@ -33,4 +33,11 @@ public class Snowboarding implements SnowSport
 		System.out.println("making some chane in snowowbarding impl.");
 	}
 
+	@Override
+	public void selectProtectorsToWear()
+	{
+		// TODO implement that
+		// wear all kind of protectors.
+	}
+
 }
