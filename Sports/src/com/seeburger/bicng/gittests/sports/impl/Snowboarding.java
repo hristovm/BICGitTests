@@ -39,6 +39,7 @@ public class Snowboarding implements SnowSport
 		// TODO implement that
 		// wear all kind of protectors.
 		System.out.println("Select all kind of protectors.");
+		System.out.println("foobar");
 	}
 
 }
