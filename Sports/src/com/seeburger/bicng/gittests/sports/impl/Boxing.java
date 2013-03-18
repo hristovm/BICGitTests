@@ -18,8 +18,10 @@ public class Boxing implements Sport
 	}
 
 	@Override
-	public void playWithSomebody(String somebodysName) {
+	public void playWithSomebody(String somebodysName)
+	{
 		// TODO Auto-generated method stub
+		// laplpa
 
 	}
 
